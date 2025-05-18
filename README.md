@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victory Friday</h1>
-<h3 align="center">A passionate student from Nigeria. I school at the African Leadership College, Mauritius.</h3>
+<h3 align="center">A passionate Software Developer from Nigeria. I recently graduated from the Glasgow Caledonian Uiversity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vickietrendy&label=Profile%20views&color=0e75b6&style=flat" alt="vickietrendy" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Front-end development](https://github.com/users/Vickietrendy/projects/2)
 
-- 🌱 I’m currently learning **JavaScript, C++, PHP on Udemy and Sololearn**
+- 🌱 I’m currently learning **JavaScript, SQL, and PLSQL**
 
 - 👯 I’m looking to collaborate on [Back-end development](https://github.com/users/Vickietrendy/projects/3)
 

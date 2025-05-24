@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **RAG, SQL, and PLSQL**
 
-- 👯 I’m looking to collaborate on [Back-end development](https://github.com/users/ToryFriday/projects/3)
+- 👯 I’m looking to collaborate on [Back-end development](https://github.com/ToryFriday?tab=projects)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vickietrendy?tab=projects](https://github.com/Vickietrendy?tab=projects)
 

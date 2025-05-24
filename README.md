@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vickietrendyy" target="blank"><img src="https://img.shields.io/twitter/follow/vickietrendyy?logo=twitter&style=for-the-badge" alt="vickietrendyy" /></a> </p>
 
-- 🔭 I’m currently working on [Front-end development](https://github.com/users/Vickietrendy/projects/2)
+- 🔭 I’m currently working on [Retrieval Augmented Generation](https://github.com/ToryFriday/Travelite)
 
 - 🌱 I’m currently learning **RAG, SQL, and PLSQL**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vickietrendy?tab=projects](https://github.com/Vickietrendy?tab=projects)
 
-- 💬 Ask me about **Java, HTML and CSS.**
+- 💬 Ask me about **AI, ML and Energy Conservation.**
 
 - 📫 How to reach me **toryfriday@gmail.com**
 

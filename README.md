@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Front-end development](https://github.com/users/Vickietrendy/projects/2)
 
-- 🌱 I’m currently learning **JavaScript, SQL, and PLSQL**
+- 🌱 I’m currently learning **RAG, SQL, and PLSQL**
 
 - 👯 I’m looking to collaborate on [Back-end development](https://github.com/users/Vickietrendy/projects/3)
 

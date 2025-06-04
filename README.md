@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vickietrendyy" target="blank"><img src="https://img.shields.io/twitter/follow/vickietrendyy?logo=twitter&style=for-the-badge" alt="vickietrendyy" /></a> </p>
 
-- 🔭 I’m currently working on [Retrieval Augmented Generation](https://github.com/ToryFriday/Travelite)
+- 🔭 I’m currently working on [GCP Agent Development Kit](https://github.com/Virgo-Alpha/Frisque)
 
-- 🌱 I’m currently learning **RAG, SQL, and PLSQL**
+- 🌱 I’m currently learning **AI Agents, RAG, and PLSQL**
 
 - 👯 I’m looking to collaborate on [Back-end development](https://github.com/ToryFriday?tab=projects)
 

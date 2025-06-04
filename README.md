@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victory Friday</h1>
 <h3 align="center">A passionate Software Developer from Nigeria. I recently graduated from the Glasgow Caledonian Uiversity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vickietrendy&label=Profile%20views&color=0e75b6&style=flat" alt="vickietrendy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ToryFriday&label=Profile%20views&color=0e75b6&style=flat" alt="ToryFriday" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vickietrendy" alt="vickietrendy" /></a> </p>
 

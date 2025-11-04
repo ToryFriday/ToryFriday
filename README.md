@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ToryFridayy" target="blank"><img src="https://img.shields.io/twitter/follow/ToryFridayy?logo=twitter&style=for-the-badge" alt="ToryFridayy" /></a> </p>
 
-- 🔭 I’m currently working on [GCP Agent Development Kit](https://github.com/Virgo-Alpha/Frisque)
+- 🔭 I’m currently working on [AWS Cloud Practitioner (CLF-C02)](https://app.datacamp.com/learn/skill-tracks/aws-cloud-practitioner-clf-c02)
 
-- 🌱 I’m currently learning **AI Agents, RAG, and PLSQL**
+- 🌱 I’m currently learning **AWS Cloud, Data Science and AI Agents**
 
 - 👯 I’m looking to collaborate on [Back-end development](https://github.com/ToryFriday?tab=projects)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ToryFriday?tab=projects](https://github.com/ToryFriday?tab=projects)
 
-- 💬 Ask me about **AI, ML and Energy Conservation.**
+- 💬 Ask me about **AI, ML, and History.**
 
 - 📫 How to reach me **toryfriday@gmail.com**
 

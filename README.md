@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ToryFridayy" target="blank"><img src="https://img.shields.io/twitter/follow/ToryFridayy?logo=twitter&style=for-the-badge" alt="ToryFridayy" /></a> </p>
 
-- 🔭 I’m currently working on [AWS Cloud Practitioner (CLF-C02)](https://app.datacamp.com/learn/skill-tracks/aws-cloud-practitioner-clf-c02)
+- 🔭 I’m currently working on [AI For Business](https://app.datacamp.com/learn/skill-tracks/ai-business-fundamentals)
 
 - 🌱 I’m currently learning **AWS Cloud, Data Science and AI Agents**
 
